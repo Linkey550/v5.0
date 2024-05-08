@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"name": "rtos",
+			"path": "../../../../../../freertos/rtos"
+		},
+		{
+			"name": "rtos_test_vscode",
+			"path": "../../../../../../freertos/rtos_test_vscode"
+		},
+		{
+			"name": "nortos",
+			"path": "../../../../../../freertos/nortos"
+		}
+	],
+	"settings": {
+		"files.encoding": "gbk",
+		"files.associations": {
+			"main.h": "c",
+			"stm32f1xx_hal.h": "c",
+			"stm32f1xx_hal_conf.h": "c",
+			"cmsis_os.h": "c",
+			"freertos.h": "c",
+			"portable.h": "c",
+			"usart.h": "c",
+			"freertosconfig.h": "c",
+			"cmsis_os2.h": "c",
+			"stdint.h": "c",
+			"semphr.h": "c",
+			"arduino_freertos.h": "c",
+			"list.h": "c",
+			"task.h": "c",
+			"gpio.h": "c",
+			"typeindex": "c",
+			"typeinfo": "c"
+		}
+	}
+}

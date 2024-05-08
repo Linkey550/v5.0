@@ -14,6 +14,7 @@
 
 //这是一处更改test
 //这是一处更改test from vscode
+//这是一处更改test from msr
 #define CHANNEL_NUMBER          (4)
 
 #define MOTOR_PWM_R                 (TIM2_PWM_MAP0_CH1_A0)
